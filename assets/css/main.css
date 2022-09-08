@@ -3235,3 +3235,12 @@ input, select, textarea {
 .smallBottomMargin{
 	margin: 0 0 1em 0;
 }
+
+.mainAbout{
+	font-size: 1.1em;
+}
+
+strong{
+	color: #565656;
+}
+
