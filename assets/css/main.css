@@ -2443,6 +2443,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+		transition: .2s ease-in-out 0s;
 		background-color: transparent;
 		border-radius: 0.35em;
 		border: solid 3px #c6c6c6;
@@ -3244,3 +3245,6 @@ strong{
 	color: #101010;
 }
 
+.button:hover{
+	transform: scale(1.08);
+}
