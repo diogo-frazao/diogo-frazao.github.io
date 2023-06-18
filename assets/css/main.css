@@ -3248,3 +3248,16 @@ strong{
 .button:hover{
 	transform: scale(1.08);
 }
+
+.smallButton{
+	width: 30px;
+	height: 30px;
+}
+
+.resumeCompanyLogo{
+	color: #787878;
+}
+
+a{
+	color:#787878;
+}
