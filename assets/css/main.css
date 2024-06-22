@@ -198,6 +198,12 @@ input, select, textarea {
 			margin: 3em 0;
 		}
 
+	hr.small-hr{
+		border: 0;
+		border-bottom: solid 2px #efefef;
+		margin: 1em 0;
+	}
+
 	blockquote {
 		border-left: solid 6px #efefef;
 		font-style: italic;
@@ -3260,4 +3266,8 @@ strong{
 
 a{
 	color:#787878;
+}
+
+ul.job {
+	list-style-type: "➣";
 }
