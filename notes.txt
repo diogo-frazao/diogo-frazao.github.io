@@ -1,0 +1,7 @@
+Coisas a melhorar:
+- Parece que está tudo grande demais em relação ao ecrã.
+- Imagens no portfolio estão grandes demais
+- Texto principal do index está grande demais
+- Responsividade do avatar e parte esquerda no geral
+- Adicionar Pool
+- Update PDF portfolio
