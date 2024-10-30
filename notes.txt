@@ -2,6 +2,7 @@ Coisas a melhorar:
 - Parece que está tudo grande demais em relação ao ecrã. XX (resolvido para index e resume)
 - Imagens no portfolio estão grandes demais 
 - Texto principal do index está grande demais X
-- Responsividade do avatar e parte esquerda no geral 
-- Adicionar Pool
+- Responsividade do avatar e parte esquerda no geral X
+- Adicionar Pool XX (falta imagens e descrições)
+- Adicionar secção professional e side projects X
 - Update PDF portfolio
