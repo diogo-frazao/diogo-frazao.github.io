@@ -302,7 +302,7 @@ input, select, textarea {
 		display: flex;
 		flex-wrap: wrap;
 		box-sizing: border-box;
-		align-items: stretch;
+		align-items: center;
 	}
 
 		.row > * {
@@ -546,7 +546,7 @@ input, select, textarea {
 				display: flex;
 				flex-wrap: wrap;
 				box-sizing: border-box;
-				align-items: stretch;
+				align-items: center;
 			}
 
 				.row > * {
@@ -791,7 +791,7 @@ input, select, textarea {
 				display: flex;
 				flex-wrap: wrap;
 				box-sizing: border-box;
-				align-items: stretch;
+				align-items: center;
 			}
 
 				.row > * {
@@ -1036,7 +1036,7 @@ input, select, textarea {
 				display: flex;
 				flex-wrap: wrap;
 				box-sizing: border-box;
-				align-items: stretch;
+				align-items: center;
 			}
 
 				.row > * {
@@ -1281,7 +1281,7 @@ input, select, textarea {
 				display: flex;
 				flex-wrap: wrap;
 				box-sizing: border-box;
-				align-items: stretch;
+				align-items: center;
 			}
 
 				.row > * {
@@ -1526,7 +1526,7 @@ input, select, textarea {
 				display: flex;
 				flex-wrap: wrap;
 				box-sizing: border-box;
-				align-items: stretch;
+				align-items: center;
 			}
 
 				.row > * {
@@ -3284,4 +3284,14 @@ ul.job {
 	font-size: 1.3em;
 }
 
+li {
+	font-size: 0.9em;
+}
 
+.actions li {
+	font-size: 1em;
+}
+
+footer li{
+	font-size: 1em;
+}
