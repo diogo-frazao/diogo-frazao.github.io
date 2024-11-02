@@ -6,5 +6,7 @@ Coisas a melhorar:
 - Adicionar Pool XX (falta imagens e descrições)
 - Adicionar secção professional e side projects X
 - Update PDF portfolio
-- Centrar imagens portfolio (col-5)
-- Tamanho das imagens portfolio
+- Centrar imagens portfolio (col-5) X
+- Tamanho das imagens portfolio X
+- Adicionar Pool completo
+- Update Resume
